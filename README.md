@@ -6,7 +6,7 @@
 # Principles
 
 으아 귀찮아 내일할래.<br />
-예시: [Example](/Operating_System_Concepts/Ch_1.Introduction.md)
+예시: [Example](/operating_system_concepts/ch1_introduction.md)
 
 
 ## License
