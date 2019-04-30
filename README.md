@@ -5,11 +5,11 @@
 
 # Principles
 
-으아 귀찮아 내일할래.
+으아 귀찮아 내일할래.<br />
 예시: [Example](/operating-system-concepts/ch_1.introduction)
 
 
 ## License
 
-This repository is under MIT License.
+This repository is under MIT License.<br />
 For more information, see [LICENSE](/LICENSE)
