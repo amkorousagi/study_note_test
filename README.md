@@ -13,3 +13,4 @@
 
 This repository is under MIT License.<br />
 For more information, see [LICENSE](/LICENSE)
+Copyright (c) 2019 Kitae Kim, Dongwhi Lee, Sechan Park
