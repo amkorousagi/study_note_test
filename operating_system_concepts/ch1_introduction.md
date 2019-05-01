@@ -100,9 +100,7 @@ CPU가 신호를 받으면 하던 일을 멈추고 신호에 따라 OS가 정의
 
 대부분의 CPU는 *nonmaskable interrupt*, *maskable interrupt* 두개의 interrupt request line을 가지고 있다.
 
-전자는 복구할 수 없는 메모리 에러와 같은 중요한 이벤트에 사용된다.
-
-후자는 중요한 작업중일 때 무시될 수 있다. 일반적으로 device controller들은 maskable interrupt를 사용한다.
+전자와 달리 후자는 중요한 작업중일 때 무시될 수 있다. 일반적으로 device controller들은 maskable interrupt를 사용한다.
 
 컴퓨터에는 수많은 장치가 연결되어 interrupt vector가 허용하는 수 이상의 interrupt handler가 필요할 수 있다. 이는 interrupt vector가 또다른 interrupt vector를 가리키게 하여 해결한다.
 
