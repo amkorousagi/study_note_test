@@ -6,6 +6,8 @@
 
 
 
+
+
 # Introduction
 
 이 챕터에서는 컴퓨터 시스템의 주요 요소들과 운영체제가 제공하는 주요 기능들에 대해 살펴본다.
@@ -13,6 +15,8 @@
 추가적으로, 운영체제에서 사용되는 자료구조와 컴퓨터 환경, 여러 유명한 운영체제에 대한 간략한 설명을 포함한다.
 
 운영체제는 **kernel**, **system program**, **application program**, **middle ware**로 구성된다.
+
+
 
 
 
@@ -41,6 +45,8 @@
 시스템 관점에서 운영체제는 **자원을 분배**하고 시스템에 대한 부적절한 요청을 통제한다.
 
 컴퓨터 시스템에서의 자원이란 다음과 같다: CPU time, memory space, storage space, I/O device 등.
+
+
 
 
 
@@ -104,6 +110,14 @@ CPU가 신호를 받으면 하던 일을 멈추고 신호에 따라 OS가 정의
 
 ![figure_1.5](./images/figure_1.5.png)
 
+
+
+
+
 ### Storage structure
+
+
+
+
 
 ### I/O structure
