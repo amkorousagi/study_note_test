@@ -27,4 +27,4 @@
 ### System view
 
 시스템 관점에서 운영체제는 **자원을 분배**하고 시스템에 대한 부적절한 요청을 통제한다.<br />
-컴퓨터 시스템에서의 자원이란 다음과 같다: CPU time, memory space, storage space, I/O devices 등.
+컴퓨터 시스템에서의 자원이란 다음과 같다: CPU time, memory space, storage space, I/O device 등.
