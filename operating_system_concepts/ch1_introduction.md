@@ -23,7 +23,7 @@
 예를 들어, 키보드, 마우스, 터치 스크린, 또는 음성 인식같은 입출력 장치들을 관리한다.
 *임베디드 운영체제*와 같이 특수한 운영체제는 사용자 관점에 대하여 전혀 고려하지 않는 경우가 있다.
 
-[user_view](./images/user_view.png)
+![user_view](./images/user_view.png)
 
 ### System view
 
